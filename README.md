@@ -1,6 +1,6 @@
 # Marcos dos Santos
 
-Front-end Developer, Designer UX/UI at Wings.
+Frontend Engineer | React - TypeScript - Javascript | Product Designer at @Wings
 
 Enthusiastic about programming in general, I am currently focusing on front-end web development.
 
